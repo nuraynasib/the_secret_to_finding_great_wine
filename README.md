@@ -1,2 +1,1 @@
-# How to find the perfect wine? The secret ingredient? Machine learning.
-This notebook performs an Exploratory Data Analysis and builds machine learning models to predict red wine quality based on chemical properties. It uses a UCI dataset of Portuguese red wines, explo[...]
+This notebook explores the Red Wine Quality dataset to understand the factors influencing wine quality. It performs extensive exploratory data analysis (EDA), including distributions, outlier analysis, missing value checks, and correlations. Following this, new features are engineered, and two machine learning models (LGBM Classifier and LGBM Regressor) are trained and evaluated to predict wine quality.
